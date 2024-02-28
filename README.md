@@ -1,1 +1,1 @@
-# EMG_Funcs
+# Functional Infrared Spectroscopy (fNIRS)
